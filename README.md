@@ -170,7 +170,7 @@ OPENROUTER_API_KEY=your_openrouter_api_key
 ### Example
 
 ```env
-PORT=2000
+PORT=8000
 MONGODB_URL=mongodb+srv://username:password@cluster.mongodb.net/ai-interview
 JWT_SECRET=your_secret_key
 OPENROUTER_API_KEY=your_api_key
